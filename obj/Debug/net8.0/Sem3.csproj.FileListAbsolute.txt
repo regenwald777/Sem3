@@ -1,0 +1,14 @@
+/home/regenwald666/Desktop/Sem3/obj/Debug/net8.0/Sem3.GeneratedMSBuildEditorConfig.editorconfig
+/home/regenwald666/Desktop/Sem3/obj/Debug/net8.0/Sem3.AssemblyInfoInputs.cache
+/home/regenwald666/Desktop/Sem3/obj/Debug/net8.0/Sem3.AssemblyInfo.cs
+/home/regenwald666/Desktop/Sem3/obj/Debug/net8.0/Sem3.csproj.CoreCompileInputs.cache
+/home/regenwald666/Desktop/Sem3/bin/Debug/net8.0/Sem3
+/home/regenwald666/Desktop/Sem3/bin/Debug/net8.0/Sem3.deps.json
+/home/regenwald666/Desktop/Sem3/bin/Debug/net8.0/Sem3.runtimeconfig.json
+/home/regenwald666/Desktop/Sem3/bin/Debug/net8.0/Sem3.dll
+/home/regenwald666/Desktop/Sem3/bin/Debug/net8.0/Sem3.pdb
+/home/regenwald666/Desktop/Sem3/obj/Debug/net8.0/Sem3.dll
+/home/regenwald666/Desktop/Sem3/obj/Debug/net8.0/refint/Sem3.dll
+/home/regenwald666/Desktop/Sem3/obj/Debug/net8.0/Sem3.pdb
+/home/regenwald666/Desktop/Sem3/obj/Debug/net8.0/Sem3.genruntimeconfig.cache
+/home/regenwald666/Desktop/Sem3/obj/Debug/net8.0/ref/Sem3.dll
